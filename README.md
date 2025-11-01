@@ -1,37 +1,25 @@
-# Data files (may contain sensitive information)
-data/*.csv
-data/*.xlsx
-*.pyc
-__pycache__/
-*.egg-info/
-dist/
-build/
+**Digital Supply Chain Optimization Initiative** | Lead Analyst | GitHub
+November 2024 – Present
 
-# Environment
-.env
-venv/
-.venv
-ENV/
+• Implemented ABC-XYZ inventory classification analyzing 12,500+ SKUs 
+  using Python (Pandas, NumPy), achieving 22% inventory turnover 
+  improvement and $4.2-5.1M annual carrying cost reduction
 
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
+• Developed machine learning demand forecasting ensemble (XGBoost, 
+  Prophet, LSTM) improving forecast accuracy from 22% MAPE to 8.5%, 
+  reducing stockouts 67% through Python/Scikit-learn
 
-# Logs
-*.log
-supply_chain_optimization.log
+• Designed route optimization algorithm using mixed-integer linear 
+  programming in Python, reducing delivery times 24% and improving 
+  OTIF from 88% to 96%, decreasing logistics cost 19.4%
 
-# Cache
-.pytest_cache/
-.ipynb_checkpoints/
-*.ipynb_checkpoints
+• Built PostgreSQL/MySQL star schema database with Python ETL pipelines 
+  and SQL analytical queries; created Power BI dashboards tracking 12+ KPIs
 
-# OS
-.DS_Store
-Thumbs.db
+• Documented comprehensive research paper with 19+ academic sources; 
+  published complete codebase on GitHub with professional documentation
 
-# Results (except structure)
-results/*.csv
-results/*.txt
+Technologies: Python (Pandas, Scikit-learn, XGBoost, Prophet, TensorFlow), 
+SQL, PostgreSQL, Power BI, Mixed-Integer Linear Programming, Linear Algebra
+
+GitHub: github.com/YOUR-USERNAME/supply-chain-optimization
