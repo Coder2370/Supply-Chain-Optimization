@@ -22,4 +22,4 @@ November 2024 – Present
 Technologies: Python (Pandas, Scikit-learn, XGBoost, Prophet, TensorFlow), 
 SQL, PostgreSQL, Power BI, Mixed-Integer Linear Programming, Linear Algebra
 
-GitHub: github.com/YOUR-USERNAME/supply-chain-optimization
+GitHub: https://github.com/Coder2370/Supply-Chain-Optimization/
