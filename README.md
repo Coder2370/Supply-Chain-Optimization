@@ -1,5 +1,5 @@
 **Digital Supply Chain Optimization Initiative** | Lead Analyst | GitHub
-November 2024 – Present
+August 2024 – November 2024
 
 • Implemented ABC-XYZ inventory classification analyzing 12,500+ SKUs 
   using Python (Pandas, NumPy), achieving 22% inventory turnover 
